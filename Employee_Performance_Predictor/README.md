@@ -236,7 +236,11 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+### Streamlit dashboard
 
+```bash
+streamlit run app.py
+```
 ---
 
 ## 📈 Output Results
@@ -259,6 +263,7 @@ outputs/
 ├── metrics.txt
 ├── predictions.csv
 ```
+<img width="748" height="888" alt="image" src="https://github.com/user-attachments/assets/b11e0519-a259-4d16-a033-4683de1318bf" />
 
 ---
 
@@ -309,8 +314,5 @@ These insights help organizations:
 ---
 
 ## 👨‍💻 Author
-
 G B Deepika
-Data Science / Machine Learning
-
 ---
