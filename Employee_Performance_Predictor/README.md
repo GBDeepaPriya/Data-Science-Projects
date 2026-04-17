@@ -147,8 +147,6 @@ Employee-Performance-Predictor/
 │   ├── raw/
 │   ├── processed/
 │
-├── notebooks/
-│
 ├── src/
 │   ├── data_generation.py
 │   ├── data_preprocessing.py
@@ -167,6 +165,7 @@ Employee-Performance-Predictor/
 ├── main.py
 ├── requirements.txt
 ├── README.md
+|── app.py
 ```
 
 ---
@@ -264,7 +263,6 @@ outputs/
 ├── predictions.csv
 ```
 <img width="748" height="888" alt="image" src="https://github.com/user-attachments/assets/b11e0519-a259-4d16-a033-4683de1318bf" />
-<img width="748" height="888" alt="Output" src="https://github.com/user-attachments/assets/e106fdb3-c36f-410f-bda1-b20d3d40a7d6" />
 <img width="800" height="600" alt="confusion_matrix" src="https://github.com/user-attachments/assets/018f1f8b-c3ac-4881-823c-2bd10d55d8ec" />
 <img width="3553" height="2352" alt="feature_importance" src="https://github.com/user-attachments/assets/15898451-b0b4-481b-85f5-1d7c98e5c2cd" />
 <img width="800" height="600" alt="performance_distribution" src="https://github.com/user-attachments/assets/46b5c08a-1896-46a4-b46a-577b0697d426" />
