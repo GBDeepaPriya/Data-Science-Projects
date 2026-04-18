@@ -1,0 +1,7 @@
+product,avg_demand,safety_stock,reorder_point,current_stock,reorder_required
+Bread,79.21,59.39,455.43,286,True
+Eggs,79.39,60.06,456.99,608,False
+Milk,79.97,60.01,459.89,394,True
+Rice,79.04,58.1,453.3,560,False
+Shampoo,79.87,58.99,458.36,586,False
+Soap,79.85,59.8,459.03,359,True
