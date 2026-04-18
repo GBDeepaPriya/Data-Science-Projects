@@ -160,13 +160,20 @@ Expense-Tracker-App/
 
 # ▶ How to Run Project
 
-Install Dependencies
+## Install Dependencies
 pip install -r requirements.txt
 
-Run Full Pipeline
+## Run Full Pipeline
 python main.py
 
-Run Interactive Dashboard
+## Run Interactive Dashboard
 streamlit run app/streamlit_app.py
 
 # 📊 Sample Outputs
+<img width="1855" height="782" alt="Dashboard1" src="https://github.com/user-attachments/assets/4086f64c-8283-44a3-9d95-d4d50f1e9697" />
+<img width="1838" height="861" alt="Dashboard2" src="https://github.com/user-attachments/assets/271b0005-57a8-4929-971c-8c460a3294e3" />
+<img width="800" height="800" alt="pie_chart" src="https://github.com/user-attachments/assets/d40c1538-93a0-419d-a364-692f094681d3" />
+<img width="1000" height="600" alt="category_chart" src="https://github.com/user-attachments/assets/d5ce494f-2634-43c6-8159-523b0a7905f0" />
+<img width="1200" height="600" alt="monthly_chart" src="https://github.com/user-attachments/assets/c95de53f-26f7-499f-a128-2db602210669" />
+
+
