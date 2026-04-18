@@ -122,39 +122,37 @@ Retail-Sales-Forecasting-Inventory-Optimization/
 
 ├── data/  
 │   ├── simulated/  
-│   │   └── synthetic_sales.csv        # Generated synthetic retail dataset  
+│   │   └── synthetic_sales.csv         
 │   ├── processed/  
-│   │   └── cleaned_sales.csv          # Cleaned and preprocessed dataset  
+│   │   └── cleaned_sales.csv           
 │
 ├── src/  
-│   ├── data_generation.py             # Synthetic data creation  
-│   ├── data_preprocessing.py          # Data cleaning and formatting  
-│   ├── feature_engineering.py         # Feature creation for model  
-│   ├── forecasting_model.py           # Machine learning model training  
-│   ├── inventory_optimizer.py         # Inventory optimization logic  
-│   ├── visualization.py               # Graph generation  
-│   ├── model_evaluation.py            # Model performance evaluation  
+│   ├── data_generation.py               
+│   ├── data_preprocessing.py           
+│   ├── feature_engineering.py         
+│   ├── forecasting_model.py            
+│   ├── inventory_optimizer.py           
+│   ├── visualization.py                 
+│   ├── model_evaluation.py              
 │
 ├── app/  
-│   └── streamlit_dashboard.py         # Interactive Streamlit dashboard  
+│   └── streamlit_dashboard.py          
 │
 ├── outputs/  
 │   ├── forecasts/  
-│   │   └── forecast_results.csv       # Predicted sales output  
+│   │   └── forecast_results.csv      
 │   ├── inventory/  
-│   │   └── reorder_recommendations.csv # Inventory decisions  
-│   ├── plots/                         # Generated visualizations  
+│   │   └── reorder_recommendations.csv
+│   ├── plots/                       
 │
 ├── models/  
-│   └── trained_model.pkl              # Saved trained model  
+│   └── trained_model.pkl           
 │
 │
-├── test_prediction.py                # Model testing script  
-├── main.py                           # Main pipeline execution file  
-├── requirements.txt                  # Project dependencies  
-├── .gitignore                        # Ignore unnecessary files  
-└── README.md                         # Project documentation
-
+├── test_prediction.py                 
+├── main.py                           
+├── requirements.txt                                          
+└── README.md                         
 ---
 
 # ⚙️ Run the Project
