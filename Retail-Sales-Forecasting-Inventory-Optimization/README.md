@@ -124,7 +124,7 @@ Retail-Sales-Forecasting-Inventory-Optimization/
 │   ├── simulated/  
 │   │   └── synthetic_sales.csv         
 │   ├── processed/  
-│   │   └── cleaned_sales.csv           
+│        └── cleaned_sales.csv           
 │
 ├── src/  
 │   ├── data_generation.py               
