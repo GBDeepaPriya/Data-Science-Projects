@@ -1,0 +1,7 @@
+CLIMATE TREND ANALYSIS REPORT
+=============================
+
+avg_temperature: 26.02
+max_temperature: 46.26
+total_rainfall: 572569.49
+avg_co2: 390.0
