@@ -172,7 +172,14 @@ Sales Forecast
 Shows:
 Actual Sales
 Predicted Sales
+<img width="1842" height="822" alt="Dashboard1" src="https://github.com/user-attachments/assets/d23d2415-4541-4916-8e74-b030e6fc86c6" />
+<img width="1821" height="837" alt="Dashboard2" src="https://github.com/user-attachments/assets/55282717-0b5a-4ce7-86c7-554eff9d51bd" />
+<img width="640" height="480" alt="category_sales" src="https://github.com/user-attachments/assets/9572f2ae-4bf4-4661-949a-768908d9b853" />
+<img width="640" height="480" alt="sales_trend" src="https://github.com/user-attachments/assets/67d426ff-0f8a-46cd-8558-abf805719859" />
+<img width="1346" height="935" alt="output" src="https://github.com/user-attachments/assets/4b6edfc7-26dd-4ca4-9389-91ee048f80a4" />
 
-Inventory Table Example
-Product Avg Demand Safety Stock Reorder Point Current Stock Reorder Required
-Bread 62 15 325 300 Yes
+
+
+
+
+
