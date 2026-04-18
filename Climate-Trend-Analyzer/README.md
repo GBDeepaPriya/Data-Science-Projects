@@ -74,7 +74,7 @@ Climate-Trend-Analyzer/
 ├── data/
 │   ├── raw/
 │   │   └── climate_data.csv
-│   └── processed/
+│   
 │
 ├── src/
 │   ├── data_generator.py
@@ -120,3 +120,10 @@ python main.py
 streamlit run app/streamlit_app.py
 
 # 📊 Sample Outputs
+<img width="1802" height="792" alt="Dashboard 1" src="https://github.com/user-attachments/assets/e502c0e1-a9ff-4a13-a55a-0b8ed0761e80" />
+<img width="1842" height="748" alt="Dashboard 2" src="https://github.com/user-attachments/assets/7bf451e3-e1c4-43be-a8eb-75566547ebb5" />
+<img width="1297" height="850" alt="output" src="https://github.com/user-attachments/assets/77cd6c7e-e1ed-4717-ab8f-50450151126d" />
+<img width="1200" height="600" alt="temperature_forecast" src="https://github.com/user-attachments/assets/0669dee9-3462-47a0-bdc3-a3cf39c2fc06" />
+<img width="1200" height="600" alt="temperature_anomalies" src="https://github.com/user-attachments/assets/0847c3fc-5929-42ad-b447-e3bc8f729b3f" />
+<img width="1200" height="600" alt="temperature_moving_average" src="https://github.com/user-attachments/assets/3bab532e-91b1-4ec6-90d5-f3f2d5fb6980" />
+
