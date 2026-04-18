@@ -116,41 +116,44 @@ Dashboard Visualization
 
 ---
 
-# 📂 Folder Structure
+# 📂 Project Folder Structure
 
-├── data/
-│ ├── simulated/
-│ │ └── synthetic_sales.csv
-│ ├── processed/
-│ │ └── cleaned_sales.csv
+Retail-Sales-Forecasting-Inventory-Optimization/
+
+├── data/  
+│   ├── simulated/  
+│   │   └── synthetic_sales.csv        # Generated synthetic retail dataset  
+│   ├── processed/  
+│   │   └── cleaned_sales.csv          # Cleaned and preprocessed dataset  
 │
-├── src/
-│ ├── data_generation.py
-│ ├── data_preprocessing.py
-│ ├── feature_engineering.py
-│ ├── forecasting_model.py
-│ ├── inventory_optimizer.py
-│ ├── visualization.py
-│ ├── model_evaluation.py
+├── src/  
+│   ├── data_generation.py             # Synthetic data creation  
+│   ├── data_preprocessing.py          # Data cleaning and formatting  
+│   ├── feature_engineering.py         # Feature creation for model  
+│   ├── forecasting_model.py           # Machine learning model training  
+│   ├── inventory_optimizer.py         # Inventory optimization logic  
+│   ├── visualization.py               # Graph generation  
+│   ├── model_evaluation.py            # Model performance evaluation  
 │
-├── app/
-│ └── streamlit_dashboard.py
+├── app/  
+│   └── streamlit_dashboard.py         # Interactive Streamlit dashboard  
 │
-├── outputs/
-│ ├── forecasts/
-│ │ └── forecast_results.csv
-│ ├── inventory/
-│ │ └── reorder_recommendations.csv
-│ ├── plots/
+├── outputs/  
+│   ├── forecasts/  
+│   │   └── forecast_results.csv       # Predicted sales output  
+│   ├── inventory/  
+│   │   └── reorder_recommendations.csv # Inventory decisions  
+│   ├── plots/                         # Generated visualizations  
 │
-├── models/
-│ └── trained_model.pkl
+├── models/  
+│   └── trained_model.pkl              # Saved trained model  
 │
-├── test_prediction.py
-├── main.py
-├── requirements.txt
-├── .gitignore
-└── README.md
+│
+├── test_prediction.py                # Model testing script  
+├── main.py                           # Main pipeline execution file  
+├── requirements.txt                  # Project dependencies  
+├── .gitignore                        # Ignore unnecessary files  
+└── README.md                         # Project documentation
 
 ---
 
