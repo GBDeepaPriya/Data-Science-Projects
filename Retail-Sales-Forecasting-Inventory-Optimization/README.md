@@ -116,7 +116,7 @@ Dashboard Visualization
 
 ---
 # 📂 Project Folder Structure
-
+```text
 Retail-Sales-Forecasting-Inventory-Optimization/
 
 ├── data/  
@@ -155,7 +155,7 @@ Retail-Sales-Forecasting-Inventory-Optimization/
 ├── requirements.txt                  # Project dependencies  
 ├── .gitignore                        # Ignore unnecessary files  
 └── README.md                         # Project documentation                
-
+```
 
 # ⚙️ Run the Project
 
