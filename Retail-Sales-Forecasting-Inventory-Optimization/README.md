@@ -115,11 +115,6 @@ Inventory Optimization
 Dashboard Visualization
 
 ---
-
-# 📂 Project Folder Structure
-
-Retail-Sales-Forecasting-Inventory-Optimization/
-
 # 📂 Project Folder Structure
 
 Retail-Sales-Forecasting-Inventory-Optimization/
@@ -152,13 +147,15 @@ Retail-Sales-Forecasting-Inventory-Optimization/
 ├── models/  
 │   └── trained_model.pkl              # Saved trained model  
 │
+├── images/  
+│   └── screenshots/                  # Dashboard & result screenshots  
 │
 ├── test_prediction.py                # Model testing script  
 ├── main.py                           # Main pipeline execution file  
 ├── requirements.txt                  # Project dependencies  
 ├── .gitignore                        # Ignore unnecessary files  
-└── README.md                         # Project documentation                       
----
+└── README.md                         # Project documentation                
+
 
 # ⚙️ Run the Project
 
