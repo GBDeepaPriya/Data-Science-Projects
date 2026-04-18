@@ -206,3 +206,12 @@ python main.py
 streamlit run src/dashboard.py
 
 # 📊Sample Outputs
+<img width="1857" height="797" alt="Dashboard 1" src="https://github.com/user-attachments/assets/8e7fde9f-8423-4c5e-891b-aab0698e8a9e" />
+<img width="1848" height="867" alt="Dashboard 2" src="https://github.com/user-attachments/assets/506e9ae4-75f7-4486-ae6d-d4e3ae5d7de8" />
+<img width="1622" height="770" alt="output" src="https://github.com/user-attachments/assets/3ea77186-3ca6-499f-addd-14b83627ff0f" />
+<img width="800" height="500" alt="bar_chart" src="https://github.com/user-attachments/assets/2f5eb5b3-0f33-458f-878a-204dce250139" />
+<img width="600" height="600" alt="pie_chart" src="https://github.com/user-attachments/assets/febff654-ae5d-4e2c-be05-dd6700253d8f" />
+<img width="1000" height="600" alt="region_chart" src="https://github.com/user-attachments/assets/43d545fb-e321-46ec-8af9-209b8e5a2820" />
+<img width="1000" height="500" alt="wordcloud" src="https://github.com/user-attachments/assets/aba144d7-eb1d-4e96-bab0-590fac57e8d9" />
+
+
